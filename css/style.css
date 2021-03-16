@@ -10,20 +10,25 @@ body{
 
 /* Header style */
 header{
-    background-color: white;
-    height: 100px;
-    line-height: 100px
+    background-color: white;  
 }
 
 .logo{
     margin-left: 20px;
     margin-top: 10px;
+    margin-bottom: 10px;
+    height: 60px;
+    line-height: 60px;
+    vertical-align: middle;
 }
 
 .logo_text{
     font-size: 30px;
     font-weight: 900;  
     display: inline-block;
+    height: 60px;
+    line-height: 60px;
+    vertical-align: middle;
 }
 
 /* Main style */
