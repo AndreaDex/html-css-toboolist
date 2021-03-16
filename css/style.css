@@ -11,8 +11,8 @@ body{
 /* Header style */
 header{
     background-color: white;
-    height: 100px;
-    line-height: 100px;
+    height: 80px;
+    line-height: 80px;
     vertical-align: middle;
 }
 
@@ -21,9 +21,8 @@ header{
 }
 
 .logo_text{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 900;
-    padding-bottom: 10px;
     display: inline-block;
 }
 
@@ -33,12 +32,11 @@ main{
     width: 70%;
     margin: 5% 15%;
     background-color:white;
-    height: 500px;
     border-radius: 10px;
 }
 
 .comand{
-    height: 80px;
+    height: 60px;
     border-bottom: 2px solid #02b7c521;
 }
 
@@ -53,6 +51,7 @@ main{
     display: inline-block;
     height: 30px;
     width: 80px;
+    margin-top: 20px;
     
 
 }
@@ -70,6 +69,7 @@ main{
 
 .tasks{
     margin-top: 25px;
+    margin-left: 50px;
 }
 
 .check{
@@ -116,7 +116,6 @@ main{
 
 .mobile{
     background-color: sandybrown;
-
 }
 
 p{
